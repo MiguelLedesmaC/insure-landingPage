@@ -21,4 +21,4 @@ Este proyecto no necesita instalacion. simplemente abre la carpeta o haz doble c
 ## Contacto
 Si quieres contactarme puedes escribirme a angelmiguellc35@gmail.com
 
-https://miguelledesmac.github.io/insure-landingPage/
+
